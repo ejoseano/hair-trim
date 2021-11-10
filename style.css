@@ -23,7 +23,7 @@ img {
   --header-height: 4.5rem;
 
   /* colors */
-  --hue: 159;
+  --hue: 280;
   /* HSL color mode */
   --base-color: hsl(var(--hue) 36% 57%);
   --base-color-second: hsl(var(--hue) 65% 88%);
@@ -505,6 +505,8 @@ footer .social a {
 footer .social a:hover {
   transform: translateY(-8px);
 }
+
+
 
 /*====  Back to top ============================ */
 
