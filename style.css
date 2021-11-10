@@ -163,6 +163,10 @@ margin-right: auto;
   color: var(--body-color);
 }
 
+.logo-alt img {
+  width: 5rem;
+}
+
 /*====  NAVIGATION ============================ */
 nav {
   height: var(--header-height);
